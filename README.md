@@ -1,6 +1,6 @@
 ## Project List
-- **Final Project**: [Hand Gesture Recognition using Transfer Learning](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project)
-    - **[Data Collection](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Data%20Collection)** 
+- **ENEL 601 - Advance Power System**:
+    - **[Designing a new transmission line to reduce network congestion](https://github.com/mananpatel126/Projects/tree/main/My%20work/Adding%20a%20transmission%20line%20to%20reduce%20network%20congession%20Project)** 
     - **[Model Training](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project)**
         - **[MobileNet_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/MobileNet_Model)**
         - **[ResNet_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/ResNet_Model)**
