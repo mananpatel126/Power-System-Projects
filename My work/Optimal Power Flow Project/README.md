@@ -1,0 +1,1 @@
+The project represent the difficulty of choosing the appropriate operating levels for electric power plants to meet demands given throughout a transmission network is represented by the Optimal Power Flow (OPF) model, typically with the goal of minimizing operating costs.
