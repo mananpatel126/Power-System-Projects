@@ -1,1 +1,1 @@
-Implemented an optimization code in Python using the Gurobi optimizer solver to find the optimal cost for the unit commitment problem for the multi-bus system. Provided recommendations to implement renewable energy sources for effective optimization.
+**Implemented an optimization code in Python using the Gurobi optimizer solver to find the optimal cost for power generation in specific period, by defining an adequate scheduling of the generating units in multi-bus system. Provided recommendations to implement renewable energy sources for effective optimization.
