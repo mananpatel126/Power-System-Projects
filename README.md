@@ -12,6 +12,9 @@
     - **[Transmission Homework](https://github.com/mananpatel126/Projects/blob/main/My%20work/Transmission%20Homework/Transmission%20Homework.pdf)** 
     - **[Market Clearing](https://github.com/mananpatel126/Projects/blob/main/My%20work/Market%20Clearing%20Project/Market%20Clearing%20Project.pdf)** 
     
+- **ENEL 674 - Industrial and Commercial Power System Studies**:
+    - **[Economic Load Dispatch](https://github.com/mananpatel126/Projects/blob/main/My%20work/Economic%20Load%20Dispatch/Economic%20Load%20Dispatch%20Project.pdf)** 
+
     
 - The above projects are only for my personal use.
     
