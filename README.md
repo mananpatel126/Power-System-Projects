@@ -13,8 +13,11 @@
     - **[Market Clearing](https://github.com/mananpatel126/Projects/blob/main/My%20work/Market%20Clearing%20Project/Market%20Clearing%20Project.pdf)** 
     
 - **ENEL 674 - Industrial and Commercial Power System Studies**:
-    - **[Economic Load Dispatch](https://github.com/mananpatel126/Projects/blob/main/My%20work/Economic%20Load%20Dispatch/Economic%20Load%20Dispatch%20Project.pdf)** 
-
+    - **[Milestone-1](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
+    - **[Milestone-2](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
+    - **[Milestone-3](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
+    - **[Milestone-4](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
+    - **[Milestone-5](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
     
 - The above projects are only for my personal use.
     
