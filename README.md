@@ -14,10 +14,10 @@
     
 - **ENEL 674 - Industrial and Commercial Power System Studies**:
     - **[Milestone-1](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
-    - **[Milestone-2](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
-    - **[Milestone-3](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
-    - **[Milestone-4](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
-    - **[Milestone-5](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_1)** 
+    - **[Milestone-2](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_2)** 
+    - **[Milestone-3](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_3)** 
+    - **[Milestone-4](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_4)** 
+    - **[Milestone-5](https://github.com/mananpatel126/Projects/tree/main/My%20work/Industrial%20and%20Commercial%20Power%20System%20Design/Original%20File/Milestone_5)** 
     
 - The above projects are only for my personal use.
     
